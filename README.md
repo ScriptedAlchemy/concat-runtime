@@ -1,3 +1,15 @@
+# No longer needed
+
+you can use the runtime:false option on module federation plugin instead. 
+
+
+```js
+new ModuleFederationPlugin({
+  runtime:false,
+  ...rest
+})
+```
+
 # Module Federation Runtime Chunk Merging
 
 This plugin makes module federation work as expected when using
