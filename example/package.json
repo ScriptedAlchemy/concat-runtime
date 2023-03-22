@@ -5,7 +5,7 @@
   "devDependencies": {
     "@babel/core": "7.12.10",
     "@babel/preset-react": "7.12.10",
-    "babel-loader": "8.2.2",
+    "babel-loader": "8.3.0",
     "html-webpack-plugin": "4.5.1",
     "serve": "11.3.2",
     "webpack": "5.14.0",
